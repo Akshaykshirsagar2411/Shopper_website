@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a10872e.css",
+    "main.js": "/static/js/main.a1d424a4.js",
+    "static/media/exclusive2.jpg": "/static/media/exclusive2.b1e845e6307e9f2f826b.jpg",
+    "static/media/kids9.jpg": "/static/media/kids9.96db213aa64a12a4dbb8.jpg",
+    "static/media/women4.jpeg": "/static/media/women4.36b22df3413e55d4cf7a.jpeg",
+    "static/media/women5.jpeg": "/static/media/women5.8bf93f9060ae5bac8e57.jpeg",
+    "static/media/kids10.jpg": "/static/media/kids10.418c599bc74b9593f045.jpg",
+    "static/media/women3.jpeg": "/static/media/women3.7ed2852db52b7488e8c0.jpeg",
+    "static/media/women2.jpeg": "/static/media/women2.fe83bd70fc6d73f09430.jpeg",
+    "static/media/women6.jpeg": "/static/media/women6.c7e01dc1b76e71a47923.jpeg",
+    "static/media/women8.jpeg": "/static/media/women8.6708092fa6ca96d04b9a.jpeg",
+    "static/media/women10.jpeg": "/static/media/women10.730aa81de622287635dd.jpeg",
+    "static/media/women9.jpeg": "/static/media/women9.940276bda759af817622.jpeg",
+    "static/media/women12.jpeg": "/static/media/women12.7b9c86b2d3a0c188d458.jpeg",
+    "static/media/women11.jpeg": "/static/media/women11.1c32689c9685958b6007.jpeg",
+    "static/media/kids8.jpg": "/static/media/kids8.09a8bc04fdfe7e1adf75.jpg",
+    "static/media/women7.jpeg": "/static/media/women7.5dc5d5de4adee9662589.jpeg",
+    "static/media/shirt2.jpg": "/static/media/shirt2.cffad5231589e6b67c81.jpg",
+    "static/media/shirt3.png": "/static/media/shirt3.804bdd9929d9a79a0de2.png",
+    "static/media/kids12.jpg": "/static/media/kids12.3a13c79c1f736efc4c4f.jpg",
+    "static/media/women1.jpeg": "/static/media/women1.e337dee4e91702cac934.jpeg",
+    "static/media/exclusive1.jpg": "/static/media/exclusive1.3aa61efa5929c3341a4f.jpg",
+    "static/media/insta_icon.png": "/static/media/insta_icon.cb48bd40ef751fe7bf82.png",
+    "static/media/c2.jpg": "/static/media/c2.7a11e121cf7817ea7a16.jpg",
+    "static/media/kids6.jpg": "/static/media/kids6.220599b76b023272a5d5.jpg",
+    "static/media/men1.jpg": "/static/media/men1.7ac3af2749e1ae8b1627.jpg",
+    "static/media/kids5.jpg": "/static/media/kids5.560327367ade4a545a5a.jpg",
+    "index.html": "/index.html",
+    "main.9a10872e.css.map": "/static/css/main.9a10872e.css.map",
+    "main.a1d424a4.js.map": "/static/js/main.a1d424a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a10872e.css",
+    "static/js/main.a1d424a4.js"
+  ]
+}
